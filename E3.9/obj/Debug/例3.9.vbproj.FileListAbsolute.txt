@@ -1,0 +1,12 @@
+D:\On Editing\Visual Basic.NET\例3.9\bin\Debug\例3.9.exe.config
+D:\On Editing\Visual Basic.NET\例3.9\bin\Debug\例3.9.exe
+D:\On Editing\Visual Basic.NET\例3.9\bin\Debug\例3.9.pdb
+D:\On Editing\Visual Basic.NET\例3.9\bin\Debug\例3.9.xml
+D:\On Editing\Visual Basic.NET\例3.9\obj\Debug\例3.9.vbprojAssemblyReference.cache
+D:\On Editing\Visual Basic.NET\例3.9\obj\Debug\例3._9.btnStart.resources
+D:\On Editing\Visual Basic.NET\例3.9\obj\Debug\例3._9.Resources.resources
+D:\On Editing\Visual Basic.NET\例3.9\obj\Debug\例3.9.vbproj.GenerateResource.cache
+D:\On Editing\Visual Basic.NET\例3.9\obj\Debug\例3.9.vbproj.CoreCompileInputs.cache
+D:\On Editing\Visual Basic.NET\例3.9\obj\Debug\例3.9.exe
+D:\On Editing\Visual Basic.NET\例3.9\obj\Debug\例3.9.xml
+D:\On Editing\Visual Basic.NET\例3.9\obj\Debug\例3.9.pdb

@@ -1,0 +1,12 @@
+D:\On Editing\Visual Basic.NET\例3.27\bin\Debug\例3.27.exe.config
+D:\On Editing\Visual Basic.NET\例3.27\bin\Debug\例3.27.exe
+D:\On Editing\Visual Basic.NET\例3.27\bin\Debug\例3.27.pdb
+D:\On Editing\Visual Basic.NET\例3.27\bin\Debug\例3.27.xml
+D:\On Editing\Visual Basic.NET\例3.27\obj\Debug\例3.27.vbprojAssemblyReference.cache
+D:\On Editing\Visual Basic.NET\例3.27\obj\Debug\例3._27.frmTrans.resources
+D:\On Editing\Visual Basic.NET\例3.27\obj\Debug\例3._27.Resources.resources
+D:\On Editing\Visual Basic.NET\例3.27\obj\Debug\例3.27.vbproj.GenerateResource.cache
+D:\On Editing\Visual Basic.NET\例3.27\obj\Debug\例3.27.vbproj.CoreCompileInputs.cache
+D:\On Editing\Visual Basic.NET\例3.27\obj\Debug\例3.27.exe
+D:\On Editing\Visual Basic.NET\例3.27\obj\Debug\例3.27.xml
+D:\On Editing\Visual Basic.NET\例3.27\obj\Debug\例3.27.pdb

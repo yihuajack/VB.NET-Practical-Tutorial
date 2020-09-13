@@ -1,0 +1,15 @@
+D:\On Editing\Visual Basic.NET\例4.17\bin\Debug\例4.17.exe.config
+D:\On Editing\Visual Basic.NET\例4.17\bin\Debug\例4.17.exe
+D:\On Editing\Visual Basic.NET\例4.17\bin\Debug\例4.17.pdb
+D:\On Editing\Visual Basic.NET\例4.17\bin\Debug\例4.17.xml
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4.17.vbprojAssemblyReference.cache
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4._17.Browser.resources
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4._17.Login.resources
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4._17.Resources.resources
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4._17.UpdateForm.resources
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4._17.Welcome.resources
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4.17.vbproj.GenerateResource.cache
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4.17.vbproj.CoreCompileInputs.cache
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4.17.exe
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4.17.xml
+D:\On Editing\Visual Basic.NET\例4.17\obj\Debug\例4.17.pdb
