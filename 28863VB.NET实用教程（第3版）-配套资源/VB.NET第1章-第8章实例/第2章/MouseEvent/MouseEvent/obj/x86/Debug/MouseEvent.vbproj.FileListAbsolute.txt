@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\bin\Debug\MouseEvent.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\bin\Debug\MouseEvent.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\obj\x86\Debug\MouseEvent.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\obj\x86\Debug\MouseEvent.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\obj\x86\Debug\MouseEvent.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\obj\x86\Debug\MouseEvent.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MouseEvent\obj\x86\Debug\MouseEvent.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\obj\x86\Debug\MouseEvent.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\obj\x86\Debug\MouseEvent.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\obj\x86\Debug\MouseEvent.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\bin\Debug\MouseEvent.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\bin\Debug\MouseEvent.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\obj\x86\Debug\MouseEvent.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\obj\x86\Debug\MouseEvent.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\MouseEvent\MouseEvent\obj\x86\Debug\GenerateResource.write.1.tlog

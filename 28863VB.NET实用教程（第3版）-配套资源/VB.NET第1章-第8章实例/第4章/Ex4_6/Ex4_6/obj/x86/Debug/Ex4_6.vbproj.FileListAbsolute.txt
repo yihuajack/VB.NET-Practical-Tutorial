@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\bin\Debug\Ex4_6.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\bin\Debug\Ex4_6.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\bin\Debug\Ex4_6.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\obj\x86\Debug\Ex4_6.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\obj\x86\Debug\Ex4_6.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\obj\x86\Debug\Ex4_6.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\obj\x86\Debug\Ex4_6.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_6\obj\x86\Debug\Ex4_6.pdb
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\obj\x86\Debug\Ex4_6.exe
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\obj\x86\Debug\Ex4_6.xml
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\obj\x86\Debug\Ex4_6.pdb
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\bin\Debug\Ex4_6.exe
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\bin\Debug\Ex4_6.pdb
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\bin\Debug\Ex4_6.xml
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\obj\x86\Debug\Ex4_6.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\obj\x86\Debug\Ex4_6.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\Ex4_6\Ex4_6\obj\x86\Debug\GenerateResource.write.1.tlog

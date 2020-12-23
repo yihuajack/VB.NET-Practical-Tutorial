@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\bin\Debug\ButtonLogin.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\bin\Debug\ButtonLogin.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\bin\Debug\ButtonLogin.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\obj\x86\Debug\ButtonLogin.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\obj\x86\Debug\ButtonLogin.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\obj\x86\Debug\ButtonLogin.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\obj\x86\Debug\ButtonLogin.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ButtonLogin\obj\x86\Debug\ButtonLogin.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\bin\Debug\ButtonLogin.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\bin\Debug\ButtonLogin.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\bin\Debug\ButtonLogin.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\ButtonLogin\ButtonLogin\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.exe
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.xml
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.pdb
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\bin\Debug\ButtonLogin.exe
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\bin\Debug\ButtonLogin.pdb
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\bin\Debug\ButtonLogin.xml
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\obj\x86\Debug\ButtonLogin.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\ButtonLogin\ButtonLogin\obj\x86\Debug\GenerateResource.write.1.tlog

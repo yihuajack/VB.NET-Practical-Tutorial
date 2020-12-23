@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\bin\Debug\myTextBox.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\bin\Debug\myTextBox.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\bin\Debug\myTextBox.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\obj\Debug\myTextBox.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\obj\Debug\myTextBox.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\obj\Debug\myTextBox.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\myTextBox\obj\Debug\myTextBox.pdb

@@ -1,0 +1,13 @@
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\FormShow.vbprojAssemblyReference.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\E2._2.Form1.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\E2._2.frmhello.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\E2._2.Resources.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\FormShow.vbproj.GenerateResource.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\FormShow.vbproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\bin\Debug\E2.2.exe.config
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\bin\Debug\E2.2.exe
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\bin\Debug\E2.2.pdb
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\bin\Debug\E2.2.xml
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\E2.2.exe
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\E2.2.xml
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.2\obj\Debug\E2.2.pdb

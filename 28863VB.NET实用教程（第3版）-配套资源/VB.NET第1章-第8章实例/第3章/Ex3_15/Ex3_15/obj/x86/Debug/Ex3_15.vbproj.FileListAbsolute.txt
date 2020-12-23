@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\bin\Debug\Ex3_15.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\bin\Debug\Ex3_15.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\bin\Debug\Ex3_15.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\obj\x86\Debug\Ex3_15.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\obj\x86\Debug\Ex3_15.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\obj\x86\Debug\Ex3_15.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\obj\x86\Debug\Ex3_15.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_15\obj\x86\Debug\Ex3_15.pdb
+D:\My Documents\Visual Studio 2010\Projects\Ex3_15\Ex3_15\obj\x86\Debug\Ex3_15.exe
+D:\My Documents\Visual Studio 2010\Projects\Ex3_15\Ex3_15\obj\x86\Debug\Ex3_15.xml
+D:\My Documents\Visual Studio 2010\Projects\Ex3_15\Ex3_15\obj\x86\Debug\Ex3_15.pdb

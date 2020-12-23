@@ -1,0 +1,12 @@
+C:\Users\Yihua\source\repos\E3.26\bin\Debug\E3.26.exe.config
+C:\Users\Yihua\source\repos\E3.26\bin\Debug\E3.26.exe
+C:\Users\Yihua\source\repos\E3.26\bin\Debug\E3.26.pdb
+C:\Users\Yihua\source\repos\E3.26\bin\Debug\E3.26.xml
+C:\Users\Yihua\source\repos\E3.26\obj\Debug\E3.26.vbprojAssemblyReference.cache
+C:\Users\Yihua\source\repos\E3.26\obj\Debug\E3._26.Form1.resources
+C:\Users\Yihua\source\repos\E3.26\obj\Debug\E3._26.Resources.resources
+C:\Users\Yihua\source\repos\E3.26\obj\Debug\E3.26.vbproj.GenerateResource.cache
+C:\Users\Yihua\source\repos\E3.26\obj\Debug\E3.26.vbproj.CoreCompileInputs.cache
+C:\Users\Yihua\source\repos\E3.26\obj\Debug\E3.26.exe
+C:\Users\Yihua\source\repos\E3.26\obj\Debug\E3.26.xml
+C:\Users\Yihua\source\repos\E3.26\obj\Debug\E3.26.pdb

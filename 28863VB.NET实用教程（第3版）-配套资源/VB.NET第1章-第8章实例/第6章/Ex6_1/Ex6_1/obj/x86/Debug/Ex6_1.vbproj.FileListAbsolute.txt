@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\bin\Debug\Ex6_1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\bin\Debug\Ex6_1.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\bin\Debug\Ex6_1.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\obj\x86\Debug\Ex6_1.FormOpacity.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\obj\x86\Debug\Ex6_1.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\obj\x86\Debug\Ex6_1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\obj\x86\Debug\Ex6_1.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex6_1\obj\x86\Debug\Ex6_1.pdb

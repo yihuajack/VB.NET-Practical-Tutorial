@@ -1,0 +1,12 @@
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\bin\Debug\E3.12.exe.config
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\bin\Debug\E3.12.exe
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\bin\Debug\E3.12.pdb
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\bin\Debug\E3.12.xml
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\obj\Debug\E3.12.vbprojAssemblyReference.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\obj\Debug\E3._12.Form1.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\obj\Debug\E3._12.Resources.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\obj\Debug\E3.12.vbproj.GenerateResource.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\obj\Debug\E3.12.vbproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\obj\Debug\E3.12.exe
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\obj\Debug\E3.12.xml
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.12\obj\Debug\E3.12.pdb

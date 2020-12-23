@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\bin\Debug\FormSize.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\bin\Debug\FormSize.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\bin\Debug\FormSize.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\obj\x86\Debug\FormSize.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\obj\x86\Debug\FormSize.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\obj\x86\Debug\FormSize.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\obj\x86\Debug\FormSize.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormSize\obj\x86\Debug\FormSize.pdb
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\obj\x86\Debug\FormSize.exe
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\obj\x86\Debug\FormSize.xml
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\obj\x86\Debug\FormSize.pdb
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\bin\Debug\FormSize.exe
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\bin\Debug\FormSize.pdb
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\bin\Debug\FormSize.xml
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\obj\x86\Debug\FormSize.Form1.resources
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\obj\x86\Debug\FormSize.Resources.resources
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\My Documents\Visual Studio 2010\Projects\FormSize\FormSize\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\obj\x86\Debug\FormSize.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\obj\x86\Debug\FormSize.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\obj\x86\Debug\FormSize.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\bin\Debug\FormSize.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\bin\Debug\FormSize.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\bin\Debug\FormSize.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\obj\x86\Debug\FormSize.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\obj\x86\Debug\FormSize.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormSize\FormSize\obj\x86\Debug\GenerateResource.write.1.tlog

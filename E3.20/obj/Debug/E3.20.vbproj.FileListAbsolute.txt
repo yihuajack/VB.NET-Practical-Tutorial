@@ -1,0 +1,5 @@
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.20\obj\Debug\E3.20.vbprojAssemblyReference.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.20\obj\Debug\E3._20.Form1.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.20\obj\Debug\E3._20.Resources.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.20\obj\Debug\E3.20.vbproj.GenerateResource.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.20\obj\Debug\E3.20.vbproj.CoreCompileInputs.cache

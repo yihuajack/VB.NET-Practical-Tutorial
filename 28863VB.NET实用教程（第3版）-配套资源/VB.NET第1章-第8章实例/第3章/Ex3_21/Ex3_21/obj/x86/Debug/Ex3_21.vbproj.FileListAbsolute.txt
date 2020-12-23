@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\bin\Debug\Ex3_21.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\bin\Debug\Ex3_21.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\bin\Debug\Ex3_21.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\obj\x86\Debug\Ex3_21.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\obj\x86\Debug\Ex3_21.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\obj\x86\Debug\Ex3_21.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\obj\x86\Debug\Ex3_21.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex3_21\obj\x86\Debug\Ex3_21.pdb

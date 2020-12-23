@@ -1,0 +1,27 @@
+Public Class Form1
+    Private Sub Mnu_Edit_Cut_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+													Handles Mnu_Edit_Cut.Click
+        TextBox1.Cut() 						' 将选中的文本删除并复制到剪贴板上
+    End Sub
+    Private Sub Mnu_Edit_Copy_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+													Handles Mnu_Edit_Copy.Click
+        TextBox1.Copy() 						' 将选中的文本复制到剪贴板上
+    End Sub
+    Private Sub Mnu_Edit_Paste_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+													Handles Mnu_Edit_Paste.Click
+        TextBox1.Paste() 						' 将选中文本用剪贴板上的文本替换
+    End Sub
+    Private Sub Mnu_Edit_Del_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+													Handles Mnu_Edit_Del.Click
+        TextBox1.SelectedText = "" 				' 将选中的文本删除
+    End Sub
+    Private Sub Mnu_Edit_SelectAll_Click(ByVal sender As System.Object,
+							ByVal e As System.EventArgs) Handles Mnu_Edit_SelectAll.Click
+        TextBox1.SelectAll() 					' 选中TextBox1中的所有文本
+    End Sub
+    Private Sub Mnu_Edit_Date_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+													Handles Mnu_Edit_Date.Click
+        TextBox1.SelectedText = Format(Now, "hh:mm:ss yyyy-MM-dd")
+										' 在文中框中添加日期和时间
+    End Sub
+End Class

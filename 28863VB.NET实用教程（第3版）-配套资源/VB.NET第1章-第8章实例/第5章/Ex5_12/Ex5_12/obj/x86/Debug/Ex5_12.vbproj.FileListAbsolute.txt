@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\bin\Debug\Ex5_12.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\bin\Debug\Ex5_12.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\bin\Debug\Ex5_12.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\obj\x86\Debug\Ex5_12.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\obj\x86\Debug\Ex5_12.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\obj\x86\Debug\Ex5_12.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\obj\x86\Debug\Ex5_12.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_12\obj\x86\Debug\Ex5_12.pdb
+D:\My Documents\Visual Studio 2010\Projects\Ex5_12\Ex5_12\obj\x86\Debug\Ex5_12.exe
+D:\My Documents\Visual Studio 2010\Projects\Ex5_12\Ex5_12\obj\x86\Debug\Ex5_12.xml
+D:\My Documents\Visual Studio 2010\Projects\Ex5_12\Ex5_12\obj\x86\Debug\Ex5_12.pdb

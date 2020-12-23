@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\bin\Debug\Ex5_5.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\bin\Debug\Ex5_5.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\bin\Debug\Ex5_5.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\obj\x86\Debug\Ex5_5.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\obj\x86\Debug\Ex5_5.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\obj\x86\Debug\Ex5_5.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\obj\x86\Debug\Ex5_5.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex5_5\obj\x86\Debug\Ex5_5.pdb

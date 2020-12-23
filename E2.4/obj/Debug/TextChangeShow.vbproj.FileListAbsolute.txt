@@ -1,0 +1,11 @@
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\bin\Debug\E2.4.exe.config
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\bin\Debug\E2.4.exe
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\bin\Debug\E2.4.pdb
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\bin\Debug\E2.4.xml
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\obj\Debug\E2._4.Form1.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\obj\Debug\E2._4.Resources.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\obj\Debug\TextChangeShow.vbproj.GenerateResource.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\obj\Debug\TextChangeShow.vbproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\obj\Debug\E2.4.exe
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\obj\Debug\E2.4.xml
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E2.4\obj\Debug\E2.4.pdb

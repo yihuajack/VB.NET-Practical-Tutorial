@@ -1,0 +1,28 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\bin\Debug\Ex4_17.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\bin\Debug\Ex4_17.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\bin\Debug\Ex4_17.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\Ex4_17.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\Ex4_17.Welcome.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\Ex4_17.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\Ex4_17.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\Ex4_17.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\Ex4_17.Browser.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\Ex4_17.Login.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_17\obj\x86\Debug\Ex4_17.UpdateForm.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\Ex4_17.exe
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\Ex4_17.xml
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\Ex4_17.pdb
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\bin\Debug\Ex4_17.exe
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\bin\Debug\Ex4_17.pdb
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\bin\Debug\Ex4_17.xml
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\Ex4_17.Browser.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\Ex4_17.Login.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\Ex4_17.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\Ex4_17.UpdateForm.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\Ex4_17.Welcome.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\Ex4_17\Ex4_17\obj\x86\Debug\GenerateResource.write.1.tlog

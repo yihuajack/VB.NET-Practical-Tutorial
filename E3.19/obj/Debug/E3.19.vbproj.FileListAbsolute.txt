@@ -1,0 +1,12 @@
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\bin\Debug\E3.19.exe.config
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\bin\Debug\E3.19.exe
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\bin\Debug\E3.19.pdb
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\bin\Debug\E3.19.xml
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\obj\Debug\E3.19.vbprojAssemblyReference.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\obj\Debug\E3._19.Form1.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\obj\Debug\E3._19.Resources.resources
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\obj\Debug\E3.19.vbproj.GenerateResource.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\obj\Debug\E3.19.vbproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\obj\Debug\E3.19.exe
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\obj\Debug\E3.19.xml
+D:\Documents\GitHub\VB.NET_Practical_Tutorial_Code\E3.19\obj\Debug\E3.19.pdb

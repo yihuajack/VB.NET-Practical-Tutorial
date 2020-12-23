@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\bin\Debug\KeyEvent.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\bin\Debug\KeyEvent.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\bin\Debug\KeyEvent.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\obj\x86\Debug\KeyEvent.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\obj\x86\Debug\KeyEvent.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\obj\x86\Debug\KeyEvent.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\obj\x86\Debug\KeyEvent.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\KeyEvent\obj\x86\Debug\KeyEvent.pdb

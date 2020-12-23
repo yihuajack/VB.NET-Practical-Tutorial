@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\bin\Debug\FormShow.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\bin\Debug\FormShow.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\bin\Debug\FormShow.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\FormShow.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\FormShow.frmhello.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\FormShow.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\FormShow.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\FormShow.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\FormShow\obj\x86\Debug\FormShow.pdb
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\FormShow.exe
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\FormShow.xml
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\FormShow.pdb
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\bin\Debug\FormShow.exe
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\bin\Debug\FormShow.pdb
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\bin\Debug\FormShow.xml
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\FormShow.Form1.resources
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\FormShow.frmhello.resources
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\FormShow.Resources.resources
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\My Documents\Visual Studio 2010\Projects\FormShow\FormShow\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\FormShow.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\FormShow.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\FormShow.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\bin\Debug\FormShow.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\bin\Debug\FormShow.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\bin\Debug\FormShow.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\FormShow.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\FormShow.frmhello.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\FormShow.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\FormShow\FormShow\obj\x86\Debug\GenerateResource.write.1.tlog

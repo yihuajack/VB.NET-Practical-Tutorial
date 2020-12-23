@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\bin\Debug\Ex9_1.exe.config
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\bin\Debug\Ex9_1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\bin\Debug\Ex9_1.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\bin\Debug\Ex9_1.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\obj\x86\Debug\Ex9_1.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\obj\x86\Debug\Ex9_1.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\obj\x86\Debug\Ex9_1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\obj\x86\Debug\Ex9_1.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex9_1\obj\x86\Debug\Ex9_1.pdb

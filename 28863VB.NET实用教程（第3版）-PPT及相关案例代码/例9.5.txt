@@ -1,0 +1,32 @@
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+													 Handles Button1.Click
+    	Dim conn As New OleDb.OleDbConnection
+    	conn.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;
+									Data Source='E:\MyDB\Access\xscj.accdb'"
+    	' 两个OleDBDataAdapter和两个数据表，一个代表XSB表，另一个代表CJB表
+    	Dim daXS As New OleDb.OleDbDataAdapter
+    	Dim daCJ As New OleDb.OleDbDataAdapter
+    	Dim tblXS As New DataTable
+    	Dim tblCJ As New DataTable
+    	' 建立数据集对象，读学生XS和成绩CJ两个数据表到数据集中
+    	Dim dSXS_CJ As New DataSet
+    	dSXS_CJ.Tables.Add(tblXS) : dSXS_CJ.Tables.Add(tblCJ)
+    	' 设置读取数据的SQL命令
+    	daXS.SelectCommand = New OleDb.OleDbCommand("Select XH,XM From XSB order by XH", conn)
+    	daCJ.SelectCommand = New OleDb.OleDbCommand("Select XH,KCH,CJ  From CJB", conn)
+    	' 打开数据库连接，填充两个数据表
+    	conn.Open() :  daXS.Fill(tblXS) :  daCJ.Fill(tblCJ) :  conn.Close()
+    	' 开始建立两个数据表之间的关联，关联字段用XH
+    	' 必须在数据表被填充以后建立关联
+    Dim rXS_CJ As DataRelation
+    ' 第1个参数是关联的名字，第2个参数是父表中的XH，第3个参数是子表中的XH
+    	rXS_CJ = New DataRelation("xc", tblXS.Columns("XH"), tblXK.Columns("XH"))
+
+    ' 把建立好的关联加入数据集
+    	dSXS_CJ.Relations.Add(rXS_CJ)
+    	' 以下开始数据绑定，设置DataSource和DataMember属性
+    	' cmbXS.DataSource = tblXS : cmbXS.DisplayMember = "XH"
+    	DataGridView1.DataSource = tblXS
+    	DataGridView2.DataSource = tblXS 
+DataGridView2.DataMember = "xc"
+End Sub

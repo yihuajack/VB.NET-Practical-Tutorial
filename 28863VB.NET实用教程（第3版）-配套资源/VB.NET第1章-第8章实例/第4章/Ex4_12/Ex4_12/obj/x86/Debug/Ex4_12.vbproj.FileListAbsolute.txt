@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\bin\Debug\Ex4_12.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\bin\Debug\Ex4_12.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\bin\Debug\Ex4_12.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\obj\x86\Debug\Ex4_12.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\obj\x86\Debug\Ex4_12.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\obj\x86\Debug\Ex4_12.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\obj\x86\Debug\Ex4_12.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Ex4_12\obj\x86\Debug\Ex4_12.pdb

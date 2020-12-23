@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\bin\Debug\TextChangeShow.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\bin\Debug\TextChangeShow.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\bin\Debug\TextChangeShow.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\obj\x86\Debug\TextChangeShow.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\obj\x86\Debug\TextChangeShow.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\obj\x86\Debug\TextChangeShow.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\obj\x86\Debug\TextChangeShow.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TextChangeShow\obj\x86\Debug\TextChangeShow.pdb
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.exe
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.xml
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.pdb
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\bin\Debug\TextChangeShow.exe
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\bin\Debug\TextChangeShow.pdb
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\bin\Debug\TextChangeShow.xml
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.Form1.resources
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.Resources.resources
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\My Documents\Visual Studio 2010\Projects\TextChangeShow\TextChangeShow\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\bin\Debug\TextChangeShow.exe
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\bin\Debug\TextChangeShow.pdb
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\bin\Debug\TextChangeShow.xml
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\obj\x86\Debug\TextChangeShow.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\VB.NET程序\TextChangeShow\TextChangeShow\obj\x86\Debug\GenerateResource.write.1.tlog

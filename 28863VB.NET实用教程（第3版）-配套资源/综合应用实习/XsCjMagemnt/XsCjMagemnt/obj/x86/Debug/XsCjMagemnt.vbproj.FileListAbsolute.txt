@@ -1,0 +1,75 @@
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.exe
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.pdb
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.xml
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.exe
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.xml
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.pdb
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form2.resources
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form3.resources
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form4.resources
+D:\My Documents\Visual Studio 2010\Projects\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form5.resources
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.exe
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.pdb
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.xml
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbprojResolveAssemblyReference.cache
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form1.resources
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form2.resources
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form3.resources
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form4.resources
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form5.resources
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Resources.resources
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbproj.GenerateResource.Cache
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbproj.CoreCompileInputs.cache
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.exe
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.xml
+G:\Visual Basic.NET实用教程（第3版）\VB.NET 2010源程序\VB.NET 2010源程序\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.pdb
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.exe
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.pdb
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.xml
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbprojResolveAssemblyReference.cache
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form1.resources
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form2.resources
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form3.resources
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form4.resources
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form5.resources
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Resources.resources
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbproj.GenerateResource.cache
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbproj.CoreCompileInputs.cache
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.exe
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.xml
+D:\my2010\save\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.pdb
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbprojResolveAssemblyReference.cache
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form1.resources
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form2.resources
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form3.resources
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form4.resources
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form5.resources
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Resources.resources
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbproj.GenerateResource.cache
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbproj.CoreCompileInputs.cache
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.exe
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.xml
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.pdb
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.exe
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.pdb
+D:\my2010\综合应用实习-1\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.xml
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.exe
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.pdb
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\bin\Debug\XsCjMagemnt.xml
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbprojResolveAssemblyReference.cache
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form1.resources
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form2.resources
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form3.resources
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form4.resources
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Form5.resources
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.Resources.resources
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbproj.GenerateResource.cache
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.vbproj.CoreCompileInputs.cache
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.exe
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.xml
+D:\my2010\综合应用实习\XsCjMagemnt\XsCjMagemnt\obj\x86\Debug\XsCjMagemnt.pdb
