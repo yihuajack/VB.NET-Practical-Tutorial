@@ -20,3 +20,14 @@ D:\My Documents\Visual Studio 2010\Projects\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.Form
 D:\My Documents\Visual Studio 2010\Projects\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.Resources.resources
 D:\My Documents\Visual Studio 2010\Projects\Ex4_2\Ex4_2\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\My Documents\Visual Studio 2010\Projects\Ex4_2\Ex4_2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\bin\Debug\Ex4_2.exe
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\bin\Debug\Ex4_2.pdb
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\bin\Debug\Ex4_2.xml
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.vbproj.AssemblyReference.cache
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.Form1.resources
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.Resources.resources
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.vbproj.GenerateResource.cache
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.vbproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.exe
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.xml
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\28863VB.NET实用教程（第3版）-配套资源\VB.NET第1章-第8章实例\第4章\Ex4_2\Ex4_2\obj\x86\Debug\Ex4_2.pdb

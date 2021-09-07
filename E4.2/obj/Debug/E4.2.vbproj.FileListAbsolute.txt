@@ -1,0 +1,12 @@
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\bin\Debug\E4.2.exe.config
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\bin\Debug\E4.2.exe
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\bin\Debug\E4.2.pdb
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\bin\Debug\E4.2.xml
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\obj\Debug\E4.2.vbproj.AssemblyReference.cache
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\obj\Debug\E4._2.Form1.resources
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\obj\Debug\E4._2.Resources.resources
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\obj\Debug\E4.2.vbproj.GenerateResource.cache
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\obj\Debug\E4.2.vbproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\obj\Debug\E4.2.exe
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\obj\Debug\E4.2.xml
+D:\Documents\GitHub\VB.NET-Practical-Tutorial\E4.2\obj\Debug\E4.2.pdb
